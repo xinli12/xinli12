@@ -1,12 +1,15 @@
 # Hello! 👋
 
-Welcome to my corner of GitHub! I'm a physics graduate, and my journey lies at the exciting intersection of physics, statistics, and machine learning.
+Welcome to my corner of GitHub! 👋 I’m a physics grad who turned to the dark side—machine learning.
 
 I'm curious about what our universe holds and what the future brings, and I'm passionate about building models—particularly those interpretable by humans—to **explore, understand, and predict** the phenomena around us.
 
 ## 🚀 What I'm Currently Working On
 
-My focus is on applying rigorous statistical and computational methods to scientific challenges. Some of my key interests include:
+- 🧠 I like models that make sense.
+- 🔭 I simulate the universe (sometimes just in Python).
+
+My current focus is on applying rigorous statistical and computational methods to scientific challenges. Some of my key interests include:
 
 - Simulation-based inference in astrophysics
 - Probabilistic modelling and inference
