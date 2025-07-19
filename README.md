@@ -20,6 +20,6 @@ I'm especially drawn to projects where interpretability and theoretical groundin
 I'm always keen to chat about interesting ideas, collaborations, or challenging problems!
 
 - **Email**: [xinli020125@gmail.com](mailto:xinli020125@gmail.com)
-- **GitHub**: You're already here! Feel free to have a look around.
 - **Social Media**: I rarely post, but I scroll through [RedNote (小红书)](https://www.xiaohongshu.com/user/profile/5cc47bed000000001102a0a2) daily!
+- **GitHub**: You're already here! Feel free to have a look around.
 - **Ask me about**: Physics, machine learning, surviving a physics degree, when Nvidia might hit $6 trillion, or why my model refuses to converge at 2 a.m. I'm happy to chat in both English and 中文！
