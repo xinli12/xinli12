@@ -10,7 +10,7 @@ My focus is on applying rigorous statistical and computational methods to scient
 
 - Simulation-based inference in astrophysics
 - Probabilistic modelling and inference
-- Time series forecasting
+- Time series modelling/forecasting
 - Deep generative models (especially for scientific simulations)
 
 I'm especially drawn to projects where interpretability and theoretical grounding are as important as performance.
