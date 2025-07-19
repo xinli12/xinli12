@@ -1,6 +1,6 @@
 # Hello! 👋
 
-Welcome to my corner of GitHub! 👋 I’m a physics grad who turned to the dark side—machine learning.
+Welcome to my corner of GitHub! 👋 I’m a physics grad who partly turned to the dark side—machine learning. 
 
 I'm curious about what our universe holds and what the future brings, and I'm passionate about building models—particularly those interpretable by humans—to **explore, understand, and predict** the phenomena around us.
 
